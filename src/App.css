@@ -1,0 +1,14 @@
+.App {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+
+table, th {
+  border: 2px solid blue;
+}
